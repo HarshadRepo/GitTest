@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 print("My First Java Program")
-=======
 print("My First Python Program")
->>>>>>> Added Language as a Python
+
+=======
+print("My First JavaScript Program")
+>>>>>>> Language change to javascript
