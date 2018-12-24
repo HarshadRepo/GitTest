@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+print("My First Java Program")
+=======
+print("My First Python Program")
+>>>>>>> Added Language as a Python
