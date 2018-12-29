@@ -19,7 +19,7 @@ class student():
         self.id = id
 
     def get_name(self):
-        return self.name
+        return self.student_name
 
-    def set_name(self):
-        self.name = name
+    def set_name(self, name):
+        self.student_name = name
