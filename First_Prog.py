@@ -9,7 +9,7 @@ class student():
     def marks(self):
         return id
 
-    def marks(self, id):
+    def get_marks(self, id):
         self.marks = id
 
     def get_Id(self):
@@ -21,5 +21,5 @@ class student():
     def get_name(self):
         return self.name
 
-    def set-name(self):
+    def set_name(self):
         self.name = name
