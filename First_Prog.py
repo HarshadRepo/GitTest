@@ -1,5 +1,6 @@
 class student():
-""" My First Program """ 
+""" My First Python Program """
+
     marks = ""
     id = ""
     student_name = ""
