@@ -1,7 +1,7 @@
 class student():
     marks = ""
     id = ""
-    name = ""
+    std_name = ""
 
     def __init__(self):
         pass
