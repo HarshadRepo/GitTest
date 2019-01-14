@@ -1,4 +1,4 @@
-class DevFirst:
+class DevProgFirst:
 """ My First Python Program """
 
     marks = ""
