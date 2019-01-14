@@ -1,4 +1,4 @@
-class student():
+class TestSecond:
 """ My First Python Program """
 
     marks = ""
