@@ -1,0 +1,2 @@
+class DevFifth(object):
+	pass
