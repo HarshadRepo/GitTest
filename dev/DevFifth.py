@@ -1,1 +1,2 @@
-Print "Fifth test"
+class DevFifth(object):
+	pass
