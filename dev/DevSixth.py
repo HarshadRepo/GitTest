@@ -1,2 +1,4 @@
 class DevFifth(object):
-	pass
+    print "New file"
+    print "New file"
+
