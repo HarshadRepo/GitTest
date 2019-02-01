@@ -1,6 +1,6 @@
 #My Fifth python program
-
-class FifthProgram(object):
+Import files
+class Devprogramfifth(object):
 	
-	def __int__(self):
+	def function1(self):
 		pass
