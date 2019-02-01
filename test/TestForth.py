@@ -1,3 +1,5 @@
 #My forth test program
 class TestForth(object):
-	pass
+	
+	def __init__(self):
+		pass
