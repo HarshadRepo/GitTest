@@ -1,0 +1,2 @@
+class Secondprog(object):
+    pass
