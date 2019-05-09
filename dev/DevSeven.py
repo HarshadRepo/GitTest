@@ -1,4 +1,7 @@
 class DevSeven(object):
 
     def __init__(self):
-        print("Init method")
+        print("Testing")
+
+    def fun1(self):
+        pass
