@@ -1,4 +1,4 @@
 class DevSeven(object):
 
     def __init__(self):
-        pass
+        print("Init method")
