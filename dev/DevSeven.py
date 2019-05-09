@@ -1,6 +1,6 @@
 class DevSeven(object):
 
-    def __int__(self):
+    def func3(self):
         print "This is func3"
 
     def func4(self):
