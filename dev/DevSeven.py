@@ -1,7 +1,7 @@
 class DevSeven(object):
 
-    def func3(self):
-        print "This is func3"
+    def __int__(self):
+        pass
 
-    def func4(self):
-        print "Testing"
+    def func2(self):
+        print "This is func3"
