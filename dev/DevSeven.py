@@ -1,0 +1,2 @@
+class DevSeven(object):
+    pass
