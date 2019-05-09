@@ -1,0 +1,2 @@
+class TestFifth(object):
+    pass
