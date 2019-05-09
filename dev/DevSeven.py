@@ -5,3 +5,6 @@ class DevSeven(object):
 
     def func2(self):
         print "This is func3"
+
+    def func5(self):
+        pass
